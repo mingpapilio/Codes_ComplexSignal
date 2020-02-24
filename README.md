@@ -1,5 +1,5 @@
 # Codes_ComplexSignal
-Codes and data for the manuscript "Complex signals alter recognition accuracy and conspecific acceptance thresholds"
+This repository is for open access to source codes and data for the manuscript "Complex signals alter recognition accuracy and conspecific acceptance thresholds", https://doi.org/10.1098/rstb.2019.0482 .
 
 1. **PLEASE READ** the notes at the beginning of each file, containing the key parameters for simulations and notes for plotting. 
 
